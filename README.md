@@ -1,16 +1,20 @@
 **| Chinese |**
 
-# config文件夹 | 配置文件夹
+# 文件夹路径说明
 
-# selenuim文件夹 | chrome操作内核包
+config文件夹 | 配置文件夹
 
-# yzm文件夹 | 验证码示例图片资源文件夹
+selenuim文件夹 | chrome操作内核包
 
-## index.py | 入口文件，做为主要逻辑处理文件
+yzm文件夹 | 验证码示例图片资源文件夹
 
-## getCookies.py | http请求获取的cookies
+# 主要文件说明 
 
-## parsingCode.py | 验证码识别
+index.py | 入口文件，做为主要逻辑处理文件
+
+getCookies.py | http请求获取的cookies
+
+parsingCode.py | 验证码识别
 
 
 
